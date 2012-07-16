@@ -1,6 +1,0 @@
-name = Pro 101 QA Checklist
-description = Pearance quality assurance checklist.
-core = 7.x
-package = Pro 101 Support (G)
-dependencies[] = checklistapi
-configure = admin/config/development/qa-checklist

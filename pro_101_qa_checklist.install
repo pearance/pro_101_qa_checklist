@@ -9,5 +9,5 @@
  * Implements hook_uninstall().
  */
 function qa_checklist_uninstall() {
-  variable_del('checklistapi_checklist_qa_checklist');
+  variable_del('checklistapi_checklist_pro_101_qa_checklist');
 }

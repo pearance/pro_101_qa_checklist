@@ -8,12 +8,12 @@
 /**
  * Implements hook_checklistapi_checklist_info().
  */
-function qa_checklist_checklistapi_checklist_info() {
+function pro_101_qa_checklist_checklistapi_checklist_info() {
   $checklists = array();
-  $checklists['qa_checklist'] = array(
+  $checklists['pro_101_qa_checklist'] = array(
     '#title' => t('QA checklist'),
     '#description' => t('Keep track of your Drupal QA tasks.'),
-    '#path' => 'admin/config/development/qa-checklist',
+    '#path' => 'admin/config/development/pro-101-qa-checklist',
     '#help' => t(''),
 
     'other_checklists' => array(

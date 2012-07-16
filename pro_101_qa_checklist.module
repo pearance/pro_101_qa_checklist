@@ -11,7 +11,7 @@
 function pro_101_qa_checklist_checklistapi_checklist_info() {
   $checklists = array();
   $checklists['pro_101_qa_checklist'] = array(
-    '#title' => t('QA checklist'),
+    '#title' => t('Pro 101 QA checklist'),
     '#description' => t('Keep track of your Drupal QA tasks.'),
     '#path' => 'admin/config/development/pro-101-qa-checklist',
     '#help' => t(''),

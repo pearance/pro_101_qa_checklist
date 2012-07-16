@@ -1,5 +1,5 @@
 name = Pro 101 QA Checklist
-description = Pro 101  quality assurance checklist.
+description = Pro 101 quality assurance checklist.
 core = 7.x
 package = Pro 101 Support (G)
 dependencies[] = checklistapi

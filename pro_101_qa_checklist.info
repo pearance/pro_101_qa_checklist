@@ -1,6 +1,6 @@
 name = Pro 101 QA Checklist
 description = Pro 101 quality assurance checklist.
 core = 7.x
-package = Pro 101 Support (G)
+package = Pro 101 Development (G)
 dependencies[] = checklistapi
 configure = admin/config/development/pro-101-qa-checklist
